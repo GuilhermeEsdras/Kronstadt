@@ -84,6 +84,8 @@ Estes são os materiais usados por mim para desenvolver e rodar meus programas e
   - Com as extensões: <br/>
     [Kotlin Language](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
     [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin)
+- [IntelliJ IDEA by JetBrains](https://www.jetbrains.com/idea/)
+- [Android Studio](https://developer.android.com/studio)
 <!-- -->
 
 <!-- Programando em ... -->
